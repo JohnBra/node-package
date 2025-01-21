@@ -15,5 +15,8 @@
     "url": "https://github.com/JohnBra/node-package/issues"
   },
   "homepage": "https://github.com/JohnBra/node-package#readme",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+    "@johnbra:registry": "https://npm.pkg.github.com"
+  }
 }
